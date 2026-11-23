@@ -1,6 +1,6 @@
-<figure>
+<figure style="text-align: center;">
   <img width="1460" height="737" alt="percentile" src="https://github.com/user-attachments/assets/7ea76ded-be8f-4c6e-9714-95bdc8aa18b1" />
-  <figcaption  style="text-align: center;">Finished within the top 1.7% </figcaption>
+  <figcaption> Finished within the top 1.7% </figcaption>
 </figure> <br>
 
 ## Home Credit Default Risk — All-in-One Pipeline (GPU + CPU, Twin Adjustment)

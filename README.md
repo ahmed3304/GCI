@@ -1,8 +1,9 @@
 <figure>
   <img width="1460" height="737" alt="percentile" src="https://github.com/user-attachments/assets/7ea76ded-be8f-4c6e-9714-95bdc8aa18b1" />
   <figcaption>Finished within the top 1.7% </figcaption>
-</figure>
-# Home Credit Default Risk — All-in-One Pipeline (GPU + CPU, Twin Adjustment) #
+</figure> <br>
+
+## Home Credit Default Risk — All-in-One Pipeline (GPU + CPU, Twin Adjustment)
 
 A single-file, Colab-ready pipeline for the [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk) competition. It trains **several models in parallel on one T4 GPU**, blends them with rank-averaged weights, and applies a **second-stage "twin adjustment"** that exploits duplicate applicants appearing under different IDs.
 
